@@ -1,0 +1,258 @@
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  padding-top: 50px;
+  background-color: #111;
+  color: #fff;
+}
+
+.logo-font{
+    color: #2e4eed;
+    font-size: 34px;
+    font-family: inherit;
+}
+
+nav,section {
+    padding: 10px 80px!important;
+}
+
+.bg-dark{
+  background-color: #343a4000;
+}
+
+.img-banner{
+  background: url('images/hero image.jpg');
+min-height: 137%; */
+    /* max-height: 121%; */
+    background-position-y: -42px;
+    background-position-x: 0px;
+    width: 897px;
+    height: 826px;
+	background-repeat: no-repeat;
+}
+
+.mail-btn {
+    border-radius: 27px;
+    background: #2e4eed;
+    border: solid #2e4eed;
+    color: #ffff;
+    padding: 8px 17px 8px;
+}
+
+.mail-input {
+	border-radius: 28px;
+    margin: 0 0px 0;
+    padding: 8px 52px 12px;
+    border: solid 0.5px #b7b7b7;
+    text-align: left;
+}
+
+}
+.banner, .content{
+  min-height: 600px;
+}
+section{
+  margin-bottom: 30px;
+}
+
+.content{
+  top: 120px;
+}
+
+.img-thumbnail{
+  border: none
+}
+
+
+.banner-p {
+    font-weight: 600;
+    color: #8f8686;
+	margin: 42px 0 50px;
+}
+
+.font-topic{
+    font-weight: 900;
+    font-size: 70px;
+}
+/*--------------------section 2-------------------------------*/
+.try-free {
+    background-color: #ff9800;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.try-free-2 {
+	background-color: #fff;
+    border: solid #2e4eed;
+    color: #2e4eed;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 42px;
+}
+
+.intro, .why-need, .features, footer {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.features {
+   
+    text-align: center;
+}
+
+.feature-card {
+    display: inline-block;
+    width: 21%;
+    margin: 37px 15px -25px;
+    padding: 25px 40px 48px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#card1 {
+    background-color: #3b82f6; /* blue */
+    color: white;
+}
+
+#card2 {
+	background-color: #e0f2fe;
+    padding:25px 0 85px;
+}
+
+#card3 {
+    background-color: #fef3c7; /* yellow */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+	
+}	
+.topic {
+    text-align: left;
+    font-weight: bold;
+    font-family: system-ui;
+    font-size: 48px;
+}
+
+.para {
+    margin: 22px 0 24px;
+    color: #a19c9c;
+    text-align: justify;
+}
+
+.margin-top {
+    margin: 125px 0 0;
+}
+
+
+.intro, .why-need, .features, .trust-us, .get-better-work, footer {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.why-need .content {
+    display: flex;
+    align-items: center;
+}
+
+.why-need .schedule-image {
+    max-width: 50%;
+    margin-right: 20px;
+}
+
+.why-need .text-content {
+    max-width: 50%;
+}
+
+.learn-more {
+    background-color: #3b82f6;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.features {
+    text-align: center;
+}
+
+.feature-card {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#card1 {
+    background-color: #3b82f6; /* blue */
+    color: white;
+}
+
+#card2 {
+    background-color: #e0f2fe; /* light blue */
+}
+
+#card3 {
+    background-color: #fef3c7; /* yellow */
+}
+
+.trust-us {
+    text-align: center;
+}
+
+.trust-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.person-image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 20px;
+}
+
+.count {
+    font-size: 48px;
+    font-weight: bold;
+    color: #3b82f6;
+}
+
+.get-better-work {
+    text-align: center;
+}
+
+.email-input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.num-font{
+	color: #2e4eed !important;
+    font-weight: 800;
+    font-size: 73px;
+}
